@@ -19,3 +19,4 @@ Paper, code and dataset buttons remain disabled until reviewed resources are sup
 The main presentation has a lower-bitrate web copy. Its duration, frame rate, resolution, and audio track are preserved; it is not retimed or trimmed. Other video streams are copied without re-encoding. Existing edits already present in the input snapshot are preserved. The two HTML tables retain the supplied numeric values and displayed-precision tie convention.
 
 The webpage uses local files only. The fallback page has no JavaScript dependency. Access to the anonymized webpage and all videos should be tested after hosting; this local snapshot does not itself create an anonymous URL.
+Static project website.
