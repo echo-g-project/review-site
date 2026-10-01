@@ -4,8 +4,8 @@ window.ECHO_G_CONFIG = {
   "title": "Embodied Co-speech Humanoid mOtion Generation",
   "links": {
     "paper": "",
-    "code": "",
-    "dataset": ""
+    "code": "https://anonymous.4open.science/r/ECHO-G-D1B1/",
+    "dataset": "https://anonymous-hf.com/a/zkibf9ashke8/"
   },
   "mainVideo": {
     "src": "assets/videos/long-video.mp4",

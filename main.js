@@ -15,6 +15,7 @@
       if(!['http:','https:'].includes(u.protocol)) return '';
       if(u.origin===location.origin) return s;
       if(u.protocol==='https:' && u.hostname==='anonymous.4open.science') return s;
+      if(u.href==='https://anonymous-hf.com/a/zkibf9ashke8/') return s;
       return '';
     } catch { return ''; }
   };
